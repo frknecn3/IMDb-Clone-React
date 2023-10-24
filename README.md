@@ -4,7 +4,9 @@ put gif here
 
 <br/>
 
-[Google](https://www.google.com)
+put gif here
+
+[Live Deployed Project](https://frknecn3-imdb.netlify.app)
 
 <h2>GOAL:</h2>
 
