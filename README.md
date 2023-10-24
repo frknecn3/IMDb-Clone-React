@@ -4,9 +4,7 @@ put gif here
 
 <br/>
 
-<a link='https://frknecn3-imdb.netlify.app'>Deployed Live Project</a>
-
-[Go to Real Cool Heading section]([#real-cool-heading](https://frknecn3-imdb.netlify.app))
+[Google](https://www.google.com)
 
 <h2>GOAL:</h2>
 
